@@ -52,6 +52,10 @@
     background: rgba(0, 0, 0, 0.8);
     border-radius: 4px;
   }
+
+  /* #scatter {
+    outline: 3px solid black;
+  } */
   
   /* Mobile Rules */
   @media screen and (max-width: 530px) {
